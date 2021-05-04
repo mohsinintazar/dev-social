@@ -9,7 +9,7 @@ module.exports = function (req, res, next) {
   if (!token) {
     return res
       .status(401)
-      .json({ errors: [{ msg: "No token found, authorization denied" }] });
+      .json({ msg: "No token found, authorization denied" });
   }
 
   // Verify token
