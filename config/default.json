@@ -1,6 +1,0 @@
-{
-    "mongoURI": "mongodb+srv://resume123:test123@cluster0.1axca.mongodb.net/devsocial?retryWrites=true&w=majority",
-    "jwtSecret": "myhashedsecretToken",
-    "githubClientId": "077cc4fcdd8dffd0e4d4",
-    "githubSecret": "18d7c8a3e21f8fc09fcff8c4a956165a18d7c8c1"
-}
